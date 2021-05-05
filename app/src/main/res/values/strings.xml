@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZuriSecondTask</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="error_text">email should be tg@gmail.com and password should be 12345</string>
+</resources>
